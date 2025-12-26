@@ -2,10 +2,6 @@ package pizzeria.produits;
 
 import pizzeria.fabrique.*;
 
-/**
- * Classe de base abstraite pour toutes les pizzas.
- * Elle contient les ingrédients sous forme d'interfaces (abstractions).
- */
 public abstract class Pizza {
     protected String nom;
     protected Pate pate;
