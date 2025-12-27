@@ -7,7 +7,7 @@
 
 
 * 
-**Filière** : II-BDCC 2 / GLSID 2.
+**Filière** : GLSID.
 
 
 * 
@@ -93,7 +93,7 @@ Le projet démontre deux méthodes pour générer le diagramme de classes UML à
 
 1. Cloner le dépôt :
 ```bash
-git clone https://github.com/votre-username/Pizzeria-Abstract-Factory.git
+git clone https://github.com/ELHAIDYousef/COO-ProjetFinModule.git
 
 ```
 
